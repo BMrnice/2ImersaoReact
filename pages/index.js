@@ -43,15 +43,15 @@ export default function Home() {
       </Widget>
        <Widget>
          <Widget.Header>
-            <h1>Super MArio</h1>
+            <h1>Super Mario</h1>
          </Widget.Header>
          
          <Widget.Content>
 
-         <h1>
+         <p>
            salvador de princesa que sempre e sequestrada pelo largato estranho 
 
-         </h1>
+         </p>
          </Widget.Content>
        </Widget>
         <Footer />
